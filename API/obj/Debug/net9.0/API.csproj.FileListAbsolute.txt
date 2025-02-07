@@ -16,7 +16,6 @@ C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\bin\Debug\net9.0\API.pdb
 C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\bin\Debug\net9.0\Humanizer.dll
 C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
 C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll

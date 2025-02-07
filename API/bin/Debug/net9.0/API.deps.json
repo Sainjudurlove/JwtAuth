@@ -10,7 +10,6 @@
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.1",
-          "Microsoft.AspNetCore.OpenApi": "9.0.1",
           "Microsoft.EntityFrameworkCore": "9.0.1",
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.1",
@@ -52,17 +51,6 @@
         },
         "runtime": {
           "lib/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
-            "assemblyVersion": "9.0.1.0",
-            "fileVersion": "9.0.124.61009"
-          }
-        }
-      },
-      "Microsoft.AspNetCore.OpenApi/9.0.1": {
-        "dependencies": {
-          "Microsoft.OpenApi": "1.6.22"
-        },
-        "runtime": {
-          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
             "assemblyVersion": "9.0.1.0",
             "fileVersion": "9.0.124.61009"
           }
@@ -934,13 +922,6 @@
       "sha512": "sha512-yZyj/m7nBsrx6JDIv5KSYH44lJsQ4K5RLEWaYRFQVoIRvGXQxMZ/TUCa7PKFtR/o6nz1fmy6bVciV/eN/NmjUw==",
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/9.0.1",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.9.0.1.nupkg.sha512"
-    },
-    "Microsoft.AspNetCore.OpenApi/9.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-xRJe8UrLnOGs6hOBrT/4r74q97626H0mABb/DV0smlReIx6uQCENAe+TUqF6hD3NtT4sB+qrvWhAej6kxPxgew==",
-      "path": "microsoft.aspnetcore.openapi/9.0.1",
-      "hashPath": "microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
       "type": "package",
