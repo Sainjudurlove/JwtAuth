@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dq4KbLcokkQ=",
+  "dgSpecHash": "Vg8bpacD6BM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vuyu\\OneDrive\\Desktop\\JwtAuth\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Vuyu\\OneDrive\\Desktop\\JwtAuth\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vuyu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Vuyu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.1\\microsoft.aspnetcore.authentication.jwtbearer.9.0.1.nupkg.sha512",
