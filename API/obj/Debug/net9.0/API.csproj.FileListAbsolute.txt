@@ -154,3 +154,4 @@ C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\obj\Debug\net9.0\refint\API.dll
 C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\obj\Debug\net9.0\API.pdb
 C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\obj\Debug\net9.0\ref\API.dll
+C:\Users\Vuyu\OneDrive\Desktop\JwtAuth\api\obj\Debug\net9.0\API.sourcelink.json
